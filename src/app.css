@@ -1,0 +1,9 @@
+﻿/* If styling is required, add it here. */
+body {
+	background-color: rgb(255, 255, 255);
+	color: #eee;
+	font-family: sans-serif;
+	margin: 0;
+	padding: 0;
+	image-rendering: pixelated;
+}

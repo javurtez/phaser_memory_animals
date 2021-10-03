@@ -1,0 +1,82 @@
+{
+    "icon_1": {
+        "text": "bear",
+        "img_key": "bear"
+    },
+    "icon_2": {
+        "text": "buffalo",
+        "img_key": "buffalo"
+    },
+    "icon_3": {
+        "text": "chick",
+        "img_key": "chick"
+    },
+    "icon_4": {
+        "text": "chicken",
+        "img_key": "chicken"
+    },
+    "icon_5": {
+        "text": "cow",
+        "img_key": "cow"
+    },
+    "icon_6": {
+        "text": "crocodile",
+        "img_key": "crocodile"
+    },
+    "icon_7": {
+        "text": "dog",
+        "img_key": "dog"
+    },
+    "icon_8": {
+        "text": "duck",
+        "img_key": "duck"
+    },
+    "icon_9": {
+        "text": "elephant",
+        "img_key": "elephant"
+    },
+    "icon_10": {
+        "text": "frog",
+        "img_key": "frog"
+    },
+    "icon_11": {
+        "text": "giraffe",
+        "img_key": "giraffe"
+    },
+    "icon_12": {
+        "text": "goat",
+        "img_key": "goat"
+    },
+    "icon_13": {
+        "text": "gorilla",
+        "img_key": "gorilla"
+    },
+    "icon_14": {
+        "text": "hippo",
+        "img_key": "hippo"
+    },
+    "icon_15": {
+        "text": "horse",
+        "img_key": "horse"
+    },
+    "icon_16": {
+        "text": "monkey",
+        "img_key": "monkey"
+    },
+    "icon_17": {
+        "text": "moose",
+        "img_key": "moose"
+    },
+    "icon_18": {
+        "text": "narwhal",
+        "img_key": "narwhal"
+    },
+    "icon_19": {
+        "text": "owl",
+        "img_key": "owl"
+    },
+    "icon_20": {
+        "text": "panda",
+        "img_key": "panda"
+    }
+}
